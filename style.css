@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(28, 147, 78);
+    ;
+}
+h1{
+    
+    background-color: beige;
+}
+nav{
+    background-color: rgb(28, 212, 212);
+    border: 10;
+}
+div {
+    display: flex;
+    justify-content: flex-end;
+    gap: 35px;
+    border: 100px;
+    background-color: rgb(201, 207, 20);
+    
+}
+  button{
+    background-color: rgb(18, 218, 218);
+  }
+button:hover{
+    background-color: rgb(221, 20, 221);
+  }  
+  
+  
